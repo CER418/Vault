@@ -1,0 +1,4 @@
+python_bcrypt==0.3.2
+rich==12.5.1
+tinydb==4.7.0
+typer==0.6.1
